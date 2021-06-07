@@ -317,7 +317,7 @@ a.back-to-top:hover, a.back-to-top:focus {
   font-weight: 700;
   color: #fff;
   position: relative;
-  width: 120px;
+  width: 150px;
   display: inline-block;
   margin-bottom: 5px;
 }
@@ -914,6 +914,10 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   background: #F0F0F0;
 }
 
+.projects{
+  background: rgb(202, 235, 235);
+}
+
 .services-item {
   background: #fff;
   border-radius: 4px;
@@ -927,7 +931,7 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 }
 
 .services-item .icon i {
-  font-size: 42px;
+  font-size: 40px;
   margin-bottom: 15px;
   text-align: center;
   width: 48px;
